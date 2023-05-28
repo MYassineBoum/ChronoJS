@@ -1,1 +1,2 @@
 # ChronoJS
+Chronometer with JavaScript
