@@ -30,6 +30,7 @@ body {
     border-radius: 30px;
     display: flex;
     justify-content: center;
+    text-indent: 10px;
 }
 .buttons {
     margin-top: 20px;
